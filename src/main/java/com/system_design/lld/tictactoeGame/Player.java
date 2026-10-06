@@ -1,4 +1,4 @@
-package com.system_design.game.tictactoeGame;
+package com.system_design.lld.tictactoeGame;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

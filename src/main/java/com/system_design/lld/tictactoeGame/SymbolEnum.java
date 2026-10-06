@@ -1,4 +1,4 @@
-package com.system_design.game.tictactoeGame;
+package com.system_design.lld.tictactoeGame;
 
 public enum SymbolEnum {
     X,

@@ -1,4 +1,4 @@
-package com.system_design.game.tictactoeGame;
+package com.system_design.lld.tictactoeGame;
 
 public class Demo {
 
@@ -6,7 +6,7 @@ public class Demo {
         Admin admin = new Admin();
         int priyanka = admin.registerPlayer("Priyanka");
         int sanjay = admin.registerPlayer("Sanjay");
-
+        System.out.println("Players registered with ids: " + priyanka + " and " + sanjay);
         TicTacToeSystem system = TicTacToeSystem.getInstance();
 
         // Game 1: Priyanka (X) wins with the top row

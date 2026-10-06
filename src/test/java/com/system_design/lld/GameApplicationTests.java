@@ -1,4 +1,4 @@
-package com.system_design.game;
+package com.system_design.lld;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

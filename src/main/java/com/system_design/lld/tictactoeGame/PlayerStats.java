@@ -1,7 +1,6 @@
-package com.system_design.game.tictactoeGame;
+package com.system_design.lld.tictactoeGame;
 
 import lombok.Getter;
-import lombok.extern.slf4j.Slf4j;
 
 @Getter
 public class PlayerStats {
